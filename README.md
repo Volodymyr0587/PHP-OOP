@@ -28,6 +28,8 @@ modified by external code in a completely different part of our program.
 
 Stattic properties differ from regular object properties and
 that you call them directly of the class, not an instatnce object
+(Static properties belongt to class? not to instance of class)
+
 
 To access static properties use two colons after class name:
 
