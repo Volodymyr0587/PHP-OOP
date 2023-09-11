@@ -14,3 +14,12 @@ methods of the same name on the parent class
 * **Protected** properties and methods can be accessed only withinthe declaring class or from a sunclass
 
 * **Private** properties and methods can be accessed only within the declaring class. They are not visible anywhere else.
+
+#### Encapsulation
+
+**Why do we have encapsulation?**
+
+1. The functionality is defined in one place and not in multiple places.
+2. It is defined in a logical place, i.e. the same place as its data.
+3. The data inside our objects can't be unexpectededly or unwantedly 
+modified by external code in a completely different part of our program.
