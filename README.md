@@ -1,6 +1,10 @@
 ### Object Oriented PHP
 
-ООП базується на трьох основних принципах: **інкапсуляція**, **наслідування** та **поліморфізм**.
+[Learn Object Oriented PHP - 3 Hour Programming Course](https://www.youtube.com/watch?v=uUlLAfN3rJc&list=PLQH1-k79HB3_EJxKnKJ-eoAtnnBxHovLb&index=1)
+
+[YouTube - Gary Clarke](https://www.youtube.com/@GaryClarkeTech)
+
+OOP is based on three main principles: **encapsulation**, **inheritance** and **polymorphism**.
 
 - Any method with the same name on a child class will overwrite
 methods of the same name on the parent class
@@ -43,3 +47,4 @@ To access static properties use two colons after class name:
 
 To access static property within the class is use `self::` keyword:
     `self::$staticPropertyName;`
+
