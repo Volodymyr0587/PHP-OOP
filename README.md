@@ -48,3 +48,6 @@ To access static properties use two colons after class name:
 To access static property within the class is use `self::` keyword:
     `self::$staticPropertyName;`
 
+#### Abstract classes
+
+**Abstract classes** are classes that do not instantiate themselves. Instead, they define an interface for the classes that extend them.
